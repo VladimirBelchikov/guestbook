@@ -10,16 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d9159f-f9b3-4c79-9bc3-4ba1c2f9ce73" name="Default Changelist" comment="req orm">
-      <change afterPath="$PROJECT_DIR$/src/Entity/Comment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Conference.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/CommentRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/ConferenceRepository.php" afterDir="false" />
+    <list default="true" id="81d9159f-f9b3-4c79-9bc3-4ba1c2f9ce73" name="Default Changelist" comment="Add comment and conference objects">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/guestbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guestbook.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Comment.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +134,7 @@
       <workItem from="1600516894784" duration="3118000" />
       <workItem from="1600521641882" duration="1434000" />
       <workItem from="1600587147206" duration="838000" />
-      <workItem from="1600592250795" duration="4855000" />
+      <workItem from="1600592250795" duration="6756000" />
     </task>
     <task id="LOCAL-00001" summary="req orm">
       <created>1600594292369</created>
@@ -148,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600594292370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add comment and conference objects">
+      <created>1600598876804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600598876804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +170,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="req orm" />
-    <option name="LAST_COMMIT_MESSAGE" value="req orm" />
+    <MESSAGE value="Add comment and conference objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comment and conference objects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600517616200">
@@ -183,10 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600592233028" />
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600594297455">
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600598878421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600594297455" />
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600598878421" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1600514637364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
